@@ -153,6 +153,6 @@ I enjoy transforming ideas into real-world software through clean code, continuo
 ⭐ Thank you for visiting my GitHub profile!
 **anjalik1922/anjalik1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 
